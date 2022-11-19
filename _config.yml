@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xie Chen@SJTU"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xie Chen"
 description              : &description "personal description"
 url                      : https://chenxie95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,11 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Xie Chen"
-  avatar           : "profile.png"
-  bio              : "Associate Professor @ CS Department in SJTU"
+  # avatar           : "profile.png"
+  avatar           : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSex6boJ725klHS7KBDogZSzq5Yp-DRS4NXLA&usqp=CAU"
+  bio              : "Associate Professor @ CS in SJTU"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Xie-Chen"
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
