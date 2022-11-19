@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-{% include base_path %}
+**2021 and Before**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Exploiting Future Word Contexts in Neural Network Language Model, <br>
+**X. Chen**, X. Liu, Y. Wang, A. Ragni, M. Gales <br>
+ IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 2019
+
