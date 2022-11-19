@@ -81,9 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xie Chen"
-  # avatar           : "profile.png"
   avatar           : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSex6boJ725klHS7KBDogZSzq5Yp-DRS4NXLA&usqp=CAU"
-  bio              : "Associate Professor @ CS in SJTU"
+  bio              : "Associate Professor @ CS in Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
