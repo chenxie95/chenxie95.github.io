@@ -36,7 +36,7 @@ Z. Meng, N. Kanda, Y. Gaur, S. Parthasarathy, E. Sun, L. Lu, **X. Chen**, J. Li,
 Proc. IEEE ICASSP, 2021
 
 Internal Language Model Estimation for Domain-Adaptive End-to-End Speech Recognition <br>
-Z. Meng, S. Parthasarathy, E. Sun, Y. Gaur, N. Kanda, L. Lu, X. Chen, R. Zhao, J. Li, Y. Gong <br>
+Z. Meng, S. Parthasarathy, E. Sun, Y. Gaur, N. Kanda, L. Lu, **X. Chen**, R. Zhao, J. Li, Y. Gong <br>
 Proc. IEEE SLT, 2020
 
 LSTM-LM with Long-Term History for First-Pass Decoding in Conversational Speech Recognition <br> 
