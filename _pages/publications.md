@@ -6,6 +6,29 @@ author_profile: true
 ---
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+An Adapter Based Multi-Label Pre-Training for Speech Separation and Enhancement <br>
+T Wang, **X Chen**, Z Chen, S Yu, W Zhu <br>
+Proc. ICASSP, 2023
+
+Factorized AED: Factorized Attention-Based Encoder-Decoder for Text-Only Domain Adaptive ASR <br>
+X Gong, W Wang, H Shao, **X Chen**, Y Qian <br>
+Proc. ICASSP, 2023
+
+Emodiff: Intensity Controllable Emotional Text-to-Speech with Soft-Label Guidance <br>
+Y Guo, C Du, **X Chen**, K Yu <br>
+Proc. ICASSP, 2023
+
+LongFNT: Long-Form Speech Recognition with Factorized Neural Transducer <br>
+X Gong, Y Wu, J Li, S Liu, R Zhao, **X Chen**, Y Qian <br>
+Proc. ICASSP, 2023
+
+Front-End Adapter: Adapting Front-End Input of Speech Based Self-Supervised Learning for Speech Recognition <br>
+**X Chen**, Z Ma, C Tang, Y Wang, Z Zheng <br>
+Proc. ICASSP, 2023
+
+Improving Few-Shot Learning for Talking Face System with TTS Data Augmentation <br>
+Q Chen, Z Ma, T Liu, X Tan, Q Lu, K Yu, **X Chen** <br>
+Proc. ICASSP, 2023
 
 Internal language model adaptation with text-only data for end-to-end speech recognition <br>
 Z Meng, Y Gaur, N Kanda, J Li, **X Chen**, Y Wu, Y Gong <br>
