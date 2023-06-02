@@ -6,6 +6,33 @@ author_profile: true
 ---
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
+Improving Code-Switching and Name Entity Recognition in ASR with Speech Editing based Data Augmentation <br>
+Zheng Liang, Zheshu Song, Ziyang Ma, Chenpeng Du, Kai Yu, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2023
+
+MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets <br>
+Ziyang Ma, Zhisheng Zheng, Changli Tang, Yujin Wang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2023
+
+Blank-regularized CTC for Frame Skipping in Neural Transducer <br>
+Yifan Yang, Xiaoyu Yang, Liyong Guo, Zengwei Yao, Wei Kang, Fangjun Kuang, Long Lin, **Xie Chen**, Daniel Povey <br>
+In Proc. INTERSPEECH, 2023
+
+Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation <br>
+Ziyang Ma, Zhisheng Zheng, Guanrou Yang, Yu Wang, Chao Zhang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2023
+
+Unsupervised Active Learning: Optimizing Labeling Cost-Effectiveness for Automatic Speech Recognition <br>
+Zhisheng Zheng, Ziyang Ma, Yu Wang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2023
+
+Towards Effective and Compact Contextual Representation for Conformer Transducer Speech Recognition Systems <br>
+Mingyu Cui, Jiawen Kang, Jiajun Deng, Xi Yin, Yutao Xie, **Xie Chen**, Xunying Liu <br>
+In Proc. INTERSPEECH, 2023
+
+DSE-TTS: Dual Speaker Embedding for Cross-Lingual Text-to-Speech <br>
+Sen Liu, Yiwei Guo, Chengpeng Du, **Xie Chen**, Kai Yu <br>
+In Proc. INTERSPEECH, 2023
 
 An Adapter Based Multi-Label Pre-Training for Speech Separation and Enhancement <br>
 T Wang, **X Chen**, Z Chen, S Yu, W Zhu <br>
