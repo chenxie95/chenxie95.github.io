@@ -78,6 +78,11 @@ Memory-efficient pipeline-parallel DNN training <br>
 D Narayanan, A Phanishayee, K Shi, **X Chen**, M Zaharia <br>
 Proc. ICML, 2021
 
+Improving RNN-T for Domain Scaling Using Semi-Supervised Training with Neural TTS <br>
+Y Deng, R Zhao, Z Meng, **X Chen**, B Liu, J Li, Y Gong, L He <br>
+Proc. INTERSPEECH, 2021
+
+
 Developing Real-time Streaming Transformer Transducer for Speech Recognition on Large-scale Dataset <br>
 **X. Chen**, Y. Wu, Z. Wang, S. Liu, J. Li <br>
 Proc. ICASSP, 2021
