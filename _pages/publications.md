@@ -6,6 +6,24 @@ author_profile: true
 ---
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
+
+
+Fast-HuBERT: An Efficient Training Framework for Self-Supervised Speech Representation Learning <br>
+Guanrou Yang, Ziyang Ma, Zhisheng Zheng, Yakun Song, Zhikang Niu, **Xie Chen** <br>
+In Proc. ASRU, 2023
+
+Exploring Effective Distillation of Self-Supervised Speech Models for Automatic Speech Recognition <br>
+Yujin Wang, Changli Tang, Ziyang Ma, Zhisheng Zheng, **Xie Chen**, Wei-Qiang Zhang <br>
+In Proc. ASRU, 2023
+
+Speaker Adaptive Text-to-Speech with Timbre-Normalized Vector-Quantized Feature <br>
+Chenpeng Du, Yiwei Guo, **Xie Chen**, Kai Yu <br>
+In IEEE/ACM TASLP, 2023
+
+DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder <br>
+Chenpeng Du, Qi Chen, Tianyu He, Xu Tan, **Xie Chen**, Kai Yu, Sheng Zhao, Jiang Bian <br>
+In Proc. ACM MM, 2023
+
 Improving Code-Switching and Name Entity Recognition in ASR with Speech Editing based Data Augmentation <br>
 Zheng Liang, Zheshu Song, Ziyang Ma, Chenpeng Du, Kai Yu, **Xie Chen** <br>
 In Proc. INTERSPEECH, 2023
