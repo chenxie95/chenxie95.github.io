@@ -53,27 +53,27 @@ Sen Liu, Yiwei Guo, Chengpeng Du, **Xie Chen**, Kai Yu <br>
 In Proc. INTERSPEECH, 2023
 
 An Adapter Based Multi-Label Pre-Training for Speech Separation and Enhancement <br>
-T Wang, **X Chen**, Z Chen, S Yu, W Zhu <br>
+Tianrui Wang, **Xie Chen**, Zhuo Chen, Shu Yu, Weibin Zhu <br>
 Proc. ICASSP, 2023
 
 Factorized AED: Factorized Attention-Based Encoder-Decoder for Text-Only Domain Adaptive ASR <br>
-X Gong, W Wang, H Shao, **X Chen**, Y Qian <br>
+Xun Gong, Wei Wang, Hang Shao, **Xie Chen**, Yanmin Qian <br>
 Proc. ICASSP, 2023
 
 Emodiff: Intensity Controllable Emotional Text-to-Speech with Soft-Label Guidance <br>
-Y Guo, C Du, **X Chen**, K Yu <br>
+Yiwei Guo, Chenpeng Du, **Xie Chen**, Kai Yu <br>
 Proc. ICASSP, 2023
 
 LongFNT: Long-Form Speech Recognition with Factorized Neural Transducer <br>
-X Gong, Y Wu, J Li, S Liu, R Zhao, **X Chen**, Y Qian <br>
+Xun Gong, Yu Wu, Jinyu Li, Shujie Liu, Rui Zhao, **Xie Chen**, Yanmin Qian <br>
 Proc. ICASSP, 2023
 
 Front-End Adapter: Adapting Front-End Input of Speech Based Self-Supervised Learning for Speech Recognition <br>
-**X Chen**, Z Ma, C Tang, Y Wang, Z Zheng <br>
+**Xie Chen**, Ziyang Ma, Changli Tang, Yujin Wang, Zhisheng Zheng <br>
 Proc. ICASSP, 2023
 
 Improving Few-Shot Learning for Talking Face System with TTS Data Augmentation <br>
-Q Chen, Z Ma, T Liu, X Tan, Q Lu, K Yu, **X Chen** <br>
+Qi Chen, Ziyang Ma, Tao Liu, Xu Tan, Qu Lu, Kai Yu, **Xie Chen** <br>
 Proc. ICASSP, 2023
 
 Internal language model adaptation with text-only data for end-to-end speech recognition <br>
@@ -81,12 +81,12 @@ Z Meng, Y Gaur, N Kanda, J Li, **X Chen**, Y Wu, Y Gong <br>
 Proc. INTERSPEECH, 2022 
 
 VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature <br>
-C Du, Y Guo, **X Chen**, K Yu <br>
+Chenpeng Du, Yiwei Guo, **Xie Chen**, Kai Yu <br>
 Proc. INTERSPEECH, 2022
 
 
 Factorized neural transducer for efficient language model adaptation <br>
-**X Chen**, Z Meng, S Parthasarathy, J Li <br>
+**Xie Chen**, Zhong Meng, S Parthasarathy, Jinyu Li <br>
 Proc. ICASSP, 2022
 
 
