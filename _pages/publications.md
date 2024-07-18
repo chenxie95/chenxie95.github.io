@@ -31,6 +31,9 @@ MaLa-ASR: Multimedia-Assisted LLM-Based ASR <br>
 Guanrou Yang, Ziyang Ma, Fan Yu, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
 In Proc. INTERSPEECH, 2024
 
+Acoustic Scene Classification by the Self-learning of EAT <br>
+Yuzhe Liang, Wenxi Chen, Yihong Qiu, Xinhu Zheng, Boyuan Chen, Jia Liu, Wei-Qiang Zhang, Cheng Lu, **Xie Chen** <br>
+In ICME Workshop, 2024
 
 LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR <br>
 Zheshu Song, Jianheng Zhuo, Yifan Yang, Ziyang Ma, Shixiong Zhang, **Xie Chen** <br>
@@ -43,6 +46,10 @@ In Proc. INTERSPEECH, 2024
 Improved Factorized Neural Transducer Model For text-only Domain Adaptation <br>
 Junzhe Liu, Jianwei Yu, **Xie Chen** <br>
 In Proc. INTERSPEECH, 2024
+
+emotion2vec: Self-supervised pre-training for speech emotion representation <br>
+Ziyang Ma, Zhisheng Zheng, Jiaxin Ye, Jinchao Li, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
+In Findings of ACL, 2024
 
 Exploring Generation of Pronunciation Lexicon for Low-Resource Language Automatic Speech Recognition Based on Generic Phone Recognizer <br>
 Jinpeng Li, **Xie Chen**, Weiqiang Zhang <br>
