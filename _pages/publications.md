@@ -7,6 +7,88 @@ author_profile: true
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
 
+On the Effectiveness of Acoustic BPE in Decoder-Only TTS <br>
+Bohan Li, Feiyu Shen, Yiwei Guo, Shuai Wang, **Xie Chen**, Kai Yu <br>
+In Proc. INTERSPEECH, 2024
+
+TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers <br>
+Yakun Song, Zhuo Chen, Xiaofei Wang, Ziyang Ma, Guanrou Yang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2024
+
+AnoPatch: Towards Better Consistency in Machine Anomalous Sound Detection <br>
+Anbai Jiang, Bing Han, Zhiqiang Lv, Yufeng Deng, Wei-Qiang Zhang, **Xie Chen**, Yanmin Qian, Jia Liu, Pingyi Fan <br>
+In Proc. INTERSPEECH, 2024
+
+The Interspeech 2024 Challenge on Speech Processing Using Discrete Units <br>
+Xuankai Chang, Jiatong Shi, Jinchuan Tian, Yuning Wu, Yuxun Tang, Yihan Wu, Shinji Watanabe, Yossi Adi, **Xie Chen**, Qin Jin <br>
+In Proc. INTERSPEECH, 2024
+
+EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark <br>
+Ziyang Ma, Mingjie Chen, Hezhao Zhang, Zhisheng Zheng, Wenxi Chen, Xiquan Li, Jiaxin Ye, **Xie Chen**, Thomas Hain <br>
+In Proc. INTERSPEECH, 2024
+
+MaLa-ASR: Multimedia-Assisted LLM-Based ASR <br>
+Guanrou Yang, Ziyang Ma, Fan Yu, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2024
+
+
+LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR <br>
+Zheshu Song, Jianheng Zhuo, Yifan Yang, Ziyang Ma, Shixiong Zhang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2024
+
+Incorporating Class-based Language Model for Named Entity Recognition in Factorized Neural Transducer <br>
+Peng Wang, Yifan Yang, Zheng Liang, Tian Tan, Shiliang Zhang, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2024
+
+Improved Factorized Neural Transducer Model For text-only Domain Adaptation <br>
+Junzhe Liu, Jianwei Yu, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2024
+
+Exploring Generation of Pronunciation Lexicon for Low-Resource Language Automatic Speech Recognition Based on Generic Phone Recognizer <br>
+Jinpeng Li, **Xie Chen**, Weiqiang Zhang <br>
+Journal of Shanghai Jiaotong University (Science), 2024
+
+SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention <br>
+Junjie Li, Yiwei Guo, **Xie Chen**, Kai Yu <br>
+In Proc. ICASSP, 2024
+
+StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations <br>
+Sen Liu, Yiwei Guo, **Xie Chen**, Kai Yu <br>
+In Proc. ICASSP, 2024
+
+Acoustic BPE for speech generation with discrete tokens <br>
+Feiyu Shen, Yiwei Guo, Chenpeng Du, **Xie Chen**, Kai Yu <br>
+In Proc. ICASSP, 2024
+
+Leveraging speech PTM, text LLM, and emotional TTS for speech emotion recognition <br>
+Ziyang Ma, Wen Wu, Zhisheng Zheng, Yiwei Guo, Qian Chen, Shiliang Zhang, **Xie Chen** <br>
+In Proc. ICASSP, 2024
+
+Towards universal speech discrete tokens: A case study for ASR and TTS
+Yifan Yang, Feiyu Shen, Chenpeng Du, Ziyang Ma, Kai Yu, Daniel Povey, **Xie Chen** <br>
+In Proc. ICASSP, 2024
+
+Voiceflow: Efficient text-to-speech with rectified flow matching <br>
+Yiwei Guo, Chenpeng Du, Ziyang Ma, **Xie Chen**, Kai Yu <br>
+In Proc. ICASSP, 2024
+
+UniCATS: A unified context-aware text-to-speech framework with contextual VQ-diffusion and vocoding <br>
+Chenpeng Du, Yiwei Guo, Feiyu Shen, Zhijun Liu, Zheng Liang, **Xie Chen**, Shuai Wang, Hui Zhang, Kai Yu <br>
+In Proc. AAAI, 2024
+
+BAT: Learning to Reason about Spatial Sounds with Large Language Models <br> 
+Zhisheng Zheng, Puyuan Peng, Ziyang Ma, **Xie Chen**, Eunsol Choi, David Harwath <br>
+In Proc. ICML, 2024
+
+
+Advanced long-content speech recognition with factorized neural transducer <br>
+Xun Gong, Yu Wu, Jinyu Li, Shujie Liu, Rui Zhao, **Xie Chen**, Yanmin Qian <br>
+IEEE/ACM TASLP, 2024 <br>
+
+
+EAT: Self-supervised pre-training with efficient audio transformer <br>
+Wenxi Chen, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, **Xie Chen** <br>
+In Proc. IJCAI, 2024
 
 Fast-HuBERT: An Efficient Training Framework for Self-Supervised Speech Representation Learning <br>
 Guanrou Yang, Ziyang Ma, Zhisheng Zheng, Yakun Song, Zhikang Niu, **Xie Chen** <br>
