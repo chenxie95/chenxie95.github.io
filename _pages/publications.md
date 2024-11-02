@@ -7,6 +7,22 @@ author_profile: true
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
 
+E3 TTS: End-to-End Text-Based Speech Editing TTS System and Its Applications <br>
+Zheng Liang, Ziyang Ma, Chenpeng Du, Kai Yu <br>
+IEEE/ACM TASLP, 2024 <br>
+
+CTC-Assisted LLM-Based Contextual ASR <br>
+Guanrou Yang, Ziyang Ma, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
+In Proc. SLT, 2024
+
+NDVQ: Robust neural audio codec with normal distribution-based vector quantization <br>
+Zhikang Niu, Sanyuan Chen, Long Zhou, Ziyang Ma, **Xie Chen**, Shujie Liu <br>
+In Proc. SLT, 2024
+
+Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech <br>
+Hankun Wang, Chenpeng Du, Yiwei Guo, Shuai Wang, **Xie Chen**, Kai Yu <br>
+In Proc. SLT, 2024
+
 On the Effectiveness of Acoustic BPE in Decoder-Only TTS <br>
 Bohan Li, Feiyu Shen, Yiwei Guo, Shuai Wang, **Xie Chen**, Kai Yu <br>
 In Proc. INTERSPEECH, 2024
@@ -31,7 +47,15 @@ MaLa-ASR: Multimedia-Assisted LLM-Based ASR <br>
 Guanrou Yang, Ziyang Ma, Fan Yu, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
 In Proc. INTERSPEECH, 2024
 
-Acoustic Scene Classification by the Self-learning of EAT <br>
+1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem <br>
+Mingjie Chen, Hezhao Zhang, Yuanchao Li, Jiachen Luo, Wen Wu, Ziyang Ma, Peter Bell, Catherine Lai, Joshua Reiss, Lin Wang, Philip Woodland, Xie Chen, Huy Phan, Thomas Hain <br>
+Odyssey 2024
+
+Semi-supervised Acoustic Scene Classification with Test-Time Adaptation <br>
+Wen Huang, Anbai Jiang, Bing Han, Xinhu Zheng, Yihong Qiu, Wenxi Chen, Yuzhe Liang, Pingyi Fan, Wei-Qiang Zhang, Cheng Lu, **Xie Chen**, Jia Liu, Yanmin Qian <br>
+In ICME Workshop, 2024
+
+Improving Acoustic Scene Classification via Self-Supervised and Semi-Supervised Learning with Efficient Audio Transformer <br>
 Yuzhe Liang, Wenxi Chen, Yihong Qiu, Xinhu Zheng, Boyuan Chen, Jia Liu, Wei-Qiang Zhang, Cheng Lu, **Xie Chen** <br>
 In ICME Workshop, 2024
 
@@ -71,7 +95,7 @@ Leveraging speech PTM, text LLM, and emotional TTS for speech emotion recognitio
 Ziyang Ma, Wen Wu, Zhisheng Zheng, Yiwei Guo, Qian Chen, Shiliang Zhang, **Xie Chen** <br>
 In Proc. ICASSP, 2024
 
-Towards universal speech discrete tokens: A case study for ASR and TTS
+Towards universal speech discrete tokens: A case study for ASR and TTS <br>
 Yifan Yang, Feiyu Shen, Chenpeng Du, Ziyang Ma, Kai Yu, Daniel Povey, **Xie Chen** <br>
 In Proc. ICASSP, 2024
 
@@ -91,7 +115,6 @@ In Proc. ICML, 2024
 Advanced long-content speech recognition with factorized neural transducer <br>
 Xun Gong, Yu Wu, Jinyu Li, Shujie Liu, Rui Zhao, **Xie Chen**, Yanmin Qian <br>
 IEEE/ACM TASLP, 2024 <br>
-
 
 EAT: Self-supervised pre-training with efficient audio transformer <br>
 Wenxi Chen, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, **Xie Chen** <br>
