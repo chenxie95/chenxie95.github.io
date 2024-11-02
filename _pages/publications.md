@@ -8,7 +8,7 @@ author_profile: true
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
 
 E3 TTS: End-to-End Text-Based Speech Editing TTS System and Its Applications <br>
-Zheng Liang, Ziyang Ma, Chenpeng Du, Kai Yu <br>
+Zheng Liang, Ziyang Ma, Chenpeng Du, Kai Yu, **Xie Chen**<br>
 IEEE/ACM TASLP, 2024 <br>
 
 CTC-Assisted LLM-Based Contextual ASR <br>
@@ -22,6 +22,10 @@ In Proc. SLT, 2024
 Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech <br>
 Hankun Wang, Chenpeng Du, Yiwei Guo, Shuai Wang, **Xie Chen**, Kai Yu <br>
 In Proc. SLT, 2024
+
+AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding <br>
+Tao Liu, Feilong Chen, Shuai Fan, Chenpeng Du, Qi Chen, **Xie Chen**, Kai Yu <br>
+In Proc. ACM MM, 2024
 
 On the Effectiveness of Acoustic BPE in Decoder-Only TTS <br>
 Bohan Li, Feiyu Shen, Yiwei Guo, Shuai Wang, **Xie Chen**, Kai Yu <br>
