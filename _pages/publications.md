@@ -31,6 +31,30 @@ VietASR: Achieving Industry-level Vietnamese ASR with 50-hour labeled data and L
 Jianheng Zhuo, Yifan Yang, Yiwen Shao, Yong Xu, Dong Yu, Kai Yu, **Xie Chen** <br>
 In Proc. INTERSPEECH, 2025 <br>
 
+F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching<br>
+Yushen CHEN, Zhikang Niu, Ziyang Ma, Keqi Deng, Chunhui Wang, JianZhao, Kai Yu, **Xie Chen** <br>
+In Proc. ACL, 2025 <br>
+
+GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement <br>
+Yifan Yang, Zheshu Song, Jianheng Zhuo, Mingyu Cui, Jinpeng Li, Bo Yang, Yexing Du, Ziyang Ma, Xunying Liu, Ziyuan Wang, Ke Li, Shuai Fan, Kai Yu, Wei-Qiang Zhang, Guoguo Chen, **Xie Chen** <br>
+In Proc. ACL, 2025 <br>
+
+Making LLMs Better Many-to-Many Speech-to-Text Translators with Curriculum Learning <br>
+Yexing Du, Youcheng Pan, Ziyang Ma, Bo Yang, Yifan Yang, Keqi Deng, **Xie Chen**, Yang Xiang, Ming Liu, Bing Qin <br>
+In Proc. ACL, 2025 <br>
+
+SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation <br>
+Keqi Deng, Wenxi Chen, **Xie Chen**, Phil Woodland <br>
+In Proc. ACL, 2025 <br>
+
+Towards Reliable Large Audio Language Model <br>
+Ziyang Ma, Xiquan Li, Yakun Song, Wenxi Chen, Chenpeng Du, Jian Wu, Yuanzhe Chen, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen <br>
+In Findings of ACL, 2025 <br>
+
+SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training <br>
+Wenxi Chen, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie LIU, **Xie Chen** <br>
+In Findings of ACL, 2025 <br>
+
 A Progressive Generation Framework with Speech Pre-trained Model for Expressive Voice Conversion <br>
 Tianrui Wang, Meng Ge, Zhikang Niu, Cheng Gong, Chunyu Qiang, Haoyu Wang, Zikang Huang, Ziyang Ma, Xiaobao Wang, **Xie Chen**, Longbiao Wang, Jianwu Dang
 In Proc. ICME, 2025 <br>
@@ -117,7 +141,7 @@ Guanrou Yang, Ziyang Ma, Fan Yu, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
 In Proc. INTERSPEECH, 2024
 
 1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem <br>
-Mingjie Chen, Hezhao Zhang, Yuanchao Li, Jiachen Luo, Wen Wu, Ziyang Ma, Peter Bell, Catherine Lai, Joshua Reiss, Lin Wang, Philip Woodland, Xie Chen, Huy Phan, Thomas Hain <br>
+Mingjie Chen, Hezhao Zhang, Yuanchao Li, Jiachen Luo, Wen Wu, Ziyang Ma, Peter Bell, Catherine Lai, Joshua Reiss, Lin Wang, Philip Woodland, **Xie Chen**, Huy Phan, Thomas Hain <br>
 Odyssey 2024
 
 Semi-supervised Acoustic Scene Classification with Test-Time Adaptation <br>
