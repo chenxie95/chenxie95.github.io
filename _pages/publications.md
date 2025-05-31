@@ -7,9 +7,53 @@ author_profile: true
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
 
-VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization <br>
-Tao Liu, Ziyang Ma, Qi Chen, Feilong Chen, Shuai Fan, **Xie Chen**, Kai Yu <br>
-In Proc. AAAI, 2025 <br>
+Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate <br>
+Hanglei Zhang, Yiwei Guo, Zhihan Li, Xiang Hao, **Xie Chen**, Kai Yu <br>
+In Proc. INTERSPEECH, 2025 <br>
+
+LSCodec: Low-Bitrate and Speaker-Decoupled Discrete Speech Codec <br>
+Yiwei Guo, Zhihan Li, Chenpeng Du, Hankun Wang, **Xie Chen**, Kai Yu <br>
+In Proc. INTERSPEECH, 2025 <br>
+
+Accelerating Flow-Matching-Based Text-to-Speech via Empirically Pruned Step Sampling <br>
+Qixi Zheng, Yushen Chen, Zhikang Niu, Ziyang Ma, Xiaofei Wang, Kai Yu, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2025 <br>
+
+Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR <br>
+Mingyu Cui, Yifan Yang, Jiajun Deng, Jiawen Kang, Shujie Hu, Tianzi Wang, Zhaoqing Li, Shiliang Zhang, **Xie Chen**, Xunying Liu <br>
+In Proc. INTERSPEECH, 2025 <br>
+
+Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment <br>
+Jeongsoo Choi, Zhikang Niu, Ji-Hoon Kim, Chunhui Wang, Joon Son Chung, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2025 <br>
+
+VietASR: Achieving Industry-level Vietnamese ASR with 50-hour labeled data and Large-Scale Speech Pretraining <br>
+Jianheng Zhuo, Yifan Yang, Yiwen Shao, Yong Xu, Dong Yu, Kai Yu, **Xie Chen** <br>
+In Proc. INTERSPEECH, 2025 <br>
+
+A Progressive Generation Framework with Speech Pre-trained Model for Expressive Voice Conversion <br>
+Tianrui Wang, Meng Ge, Zhikang Niu, Cheng Gong, Chunyu Qiang, Haoyu Wang, Zikang Huang, Ziyang Ma, Xiaobao Wang, **Xie Chen**, Longbiao Wang, Jianwu Dang
+In Proc. ICME, 2025 <br>
+
+k2SSL: A Faster and Better Framework for Self-Supervised Speech Representation Learning <br>
+Yifan Yang, Jianheng Zhuo, Zengrui Jin, Ziyang Ma, Xiaoyu Yang, Zengwei Yao, Liyong Guo, Wei Kang, Fangjun Kuang, Long Lin, Daniel Povey, **Xie Chen** <br>
+In Proc. ICME, 2025 <br>
+
+Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap <br>
+Guanrou Yang, Fan Yu, Ziyang Ma, Zhihao Du, Zhifu Gao, Shiliang Zhang, **Xie Chen** <br>
+In Proc. ICASSP, 2025 <br>
+
+DRCap: Decoding CLAP Latents with Retrieval-Augmented Generation for Zero-shot Audio Captioning <br>
+Xiquan Li, Wenxi Chen, Ziyang Ma, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Qiuqiang Kong, **Xie Chen** <br>
+In Proc. ICASSP, 2025 <br>
+
+VALL-T: Decoder-only generative transducer for robust and decoding-controllable text-to-speech <br>
+Chenpeng Du, Yiwei Guo, Hankun Wang, Yifan Yang, Zhikang Niu, Shuai Wang, Hui Zhang, **Xie Chen**, Kai Yu <br>
+In Proc. ICASSP, 2025 <br>
+
+SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs <br>
+Wenxi Chen, Ziyang Ma, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, **Xie Chen** <br>
+In Proc. ICASSP, 2025 <br>
 
 Language Model Can Listen While Speaking <br>
 Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, **Xie Chen** <br>
@@ -22,6 +66,10 @@ In Proc. AAAI, 2025 <br>
 
 Speech Recognition Meets Large Language Model: Benchmarking, Models, and Exploration <br>
 Ziyang Ma, Guanrou Yang, Yifan Yang, Zhifu Gao, Jiaming Wang, Zhihao Du, Fan Yu, Qian Chen, Siqi Zheng, ShiLiang Zhang, **Xie Chen** <br>
+In Proc. AAAI, 2025 <br>
+
+VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization <br>
+Tao Liu, Ziyang Ma, Qi Chen, Feilong Chen, Shuai Fan, **Xie Chen**, Kai Yu <br>
 In Proc. AAAI, 2025 <br>
 
 E3 TTS: End-to-End Text-Based Speech Editing TTS System and Its Applications <br>
