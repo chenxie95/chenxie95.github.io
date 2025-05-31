@@ -7,6 +7,23 @@ author_profile: true
 
 You can also find my updated publications on <u><a href="https://scholar.google.com/citations?user=d6u01FkAAAAJ&hl=en">my Google Scholar profile</a>.</u> <br>
 
+VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization <br>
+Tao Liu, Ziyang Ma, Qi Chen, Feilong Chen, Shuai Fan, **Xie Chen**, Kai Yu <br>
+In Proc. AAAI, 2025 <br>
+
+Language Model Can Listen While Speaking <br>
+Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, **Xie Chen** <br>
+In Proc. AAAI, 2025 <br>
+
+ELLA-V: Stable Neural Codec Language Modeling with Alignment-Guided Sequence Reordering
+Yakun Song, Zhuo Chen, Xiaofei Wang, Ziyang Ma, **Xie Chen** <br>
+In Proc. AAAI, 2025 <br>
+
+
+Speech Recognition Meets Large Language Model: Benchmarking, Models, and Exploration <br>
+Ziyang Ma, Guanrou Yang, Yifan Yang, Zhifu Gao, Jiaming Wang, Zhihao Du, Fan Yu, Qian Chen, Siqi Zheng, ShiLiang Zhang, **Xie Chen** <br>
+In Proc. AAAI, 2025 <br>
+
 E3 TTS: End-to-End Text-Based Speech Editing TTS System and Its Applications <br>
 Zheng Liang, Ziyang Ma, Chenpeng Du, Kai Yu, **Xie Chen**<br>
 IEEE/ACM TASLP, 2024 <br>
